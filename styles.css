@@ -37,6 +37,7 @@ p {
     display: flex;
     overflow-x: auto;
     gap: 10px;
+    margin-bottom: 20px;
 }
 
 .categoria {
